@@ -1,2 +1,2 @@
 # 5G-esempio
-prova
+Learn Git and GitHub at school
